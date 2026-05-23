@@ -12,7 +12,7 @@ const Hero = () =>{
                     <a href=""><button className="bg-[#FF0000] text-white py-3 px-5 rounded-sm font-bold cursor-pointer">Voir mes projets</button></a>
                     <a href=""><button className="border border-black text-black py-3 px-5 rounded-sm font-bold hover:border-[#FF0000] hover:text-[#FF0000] cursor-pointer">Travaillons ensemble</button></a>
                 </div>
-            </div>
+            </div><br/>
 
             <div>
                 <div className="w-90 h-120 rounded-xl bg-[#BBD5DA] border p-5">
