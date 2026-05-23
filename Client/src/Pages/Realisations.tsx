@@ -19,7 +19,7 @@ import { MoveRight } from "lucide-react";
       titre: "Todo Liste",
       description: "Application web de gestion de tâche",
       technologies: ["ReactJS", "localStorage", "tailwindCss", "TypeScript"],
-      link: "https://univ-nba1.com/index.php/vo/"
+      link: ""
     },
     {
       id: 2,
@@ -27,15 +27,15 @@ import { MoveRight } from "lucide-react";
       titre: "App web CESA",
       description: "Application web de gestion d'école",
       technologies: ["ReactJS", "localStorage", "NextJs"],
-      link: "https://univ-nba1.com/",
+      link: "",
     },
     {
       id: 3,
-      image: cesaimag,
+      image: "",
       titre: "App web CESA",
       description: "Application web de gestion d'école",
       technologies: ["ReactJS", "localStorage", "NextJs"],
-      link: "https://univ-nba1.com/index.php/cabinet-nbs/",
+      link: "",
     },
   ]
 
@@ -52,7 +52,7 @@ const Realisations = () => {
       <div className="flex flex-col gap-20">
         <div className="md:flex md:gap-10 flex flex-wrap gap-15 ">            {
             ListElmt.map((events, index)=>(
-            <div key={index} className="w-90 h-90 rounded-sm shadow-2xs bg-amber-100">
+            <div key={index} className="w-90 h-95 rounded-sm shadow-2xs bg-amber-100">
               <h2><img src={events.image} className="flex rounded-t-sm justify-center items-center" alt="" /> </h2>
 
               <div className="bg-white w-full h-50 rounded-b-sm p-5">
