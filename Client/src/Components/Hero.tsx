@@ -15,7 +15,7 @@ const Hero = () =>{
             </div><br/>
 
             <div>
-                <div className="w-70 md:w-90 h-120 rounded-xl bg-[#BBD5DA] border p-5">
+                <div className="w-75 md:w-90 h-120 rounded-xl bg-[#BBD5DA] border p-5">
                     <div className="flex justify-center items-center">
                         <img src={Image1} width={150} alt=""  className="rounded-full bg-[#F5F5F5]"/>
                     </div>
@@ -44,7 +44,7 @@ const Hero = () =>{
                     
 
                 </div>
-            </div>
+            </div><br/><br/>
 
 
 
