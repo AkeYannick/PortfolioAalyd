@@ -1,5 +1,6 @@
 import todoimag from "../assets/todoimag.png";
 import cesaimag from "../assets/cesaimag.png";
+import AalydShopimag from "../assets/AalydShopimag.png";
 import { MoveRight } from "lucide-react";
 
 
@@ -26,15 +27,15 @@ import { MoveRight } from "lucide-react";
       image: cesaimag,
       titre: "App web CESA",
       description: "Application web de gestion d'école",
-      technologies: ["ReactJS", "localStorage", "NextJs"],
+      technologies: ["Wordpress", "mysql", "Elementor", "Astra"],
       link: "",
     },
     {
       id: 3,
-      image: "",
+      image: AalydShopimag,
       titre: "App web CESA",
       description: "Application web de gestion d'école",
-      technologies: ["ReactJS", "localStorage", "NextJs"],
+      technologies: ["ReactJS", "tailwindCss", "localStorage",],
       link: "",
     },
   ]
