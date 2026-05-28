@@ -33,8 +33,8 @@ import { MoveRight } from "lucide-react";
     {
       id: 3,
       image: AalydShopimag,
-      titre: "App web CESA",
-      description: "Application web de gestion d'école",
+      titre: "App web AalydShop",
+      description: "Application web Ecommerce",
       technologies: ["ReactJS", "tailwindCss", "localStorage",],
       link: "",
     },
